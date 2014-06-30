@@ -1,6 +1,10 @@
 /**
  * The main entry point for the program.
  *
+ * @version 0.2.2
+ * @author Elfre Valdes
+ * 
+ * 
  * @version 0.2.1
  * @author Rick Neff
  * @author Sam Graham
