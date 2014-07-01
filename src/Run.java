@@ -3,6 +3,7 @@
  *
  * @version 0.2.2
  * @author Elfre Valdes
+ * @author Isaac Metcalf
  * 
  * 
  * @version 0.2.1
